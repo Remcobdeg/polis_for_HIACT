@@ -1,6 +1,3 @@
-# polis_for_HIACT
-exploring the potential of using POLIS for the HI-ACT project 
-
 # Exploring Polis for HIACT
 
 This project is based on work by The Computational Democracy Project (https://github.com/compdemocracy), which is licensed under the AGPL-3.0 license. 
@@ -10,7 +7,8 @@ In the current project I explore, test, and modify code by CDP to assess its sui
 
 ## Changes Made
 
-### Analysis notebook
+### Analysis notebook (Polis_example_data_analysis.ipynb)
+- original: https://github.com/compdemocracy/notebooks/blob/master/American%20Assembly%20BG%20analysis%20v0.8%20subconversation%2C%20every%20vote.ipynb
 - if not yet installed, installing the Python package for UMAP dimension reduction
 - automating the cloning of sample data to a google drive folder
 - various comments to explain the code
